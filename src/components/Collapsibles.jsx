@@ -102,7 +102,7 @@ function Collapsibles(props) {
     },
   ];
   return (
-    <div>
+    <div className="overall-collapsibles">
       <p className="at-a-glance">Weather at a glance</p>
       <div className="collapsibles-container">
         {collapsibles.map((collapsible, collapsibleIndex) => {

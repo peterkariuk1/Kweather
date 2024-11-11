@@ -104,12 +104,12 @@ p {
   background-color: #7979796a;
   border-radius: 10px;
   opacity: 0;
-  transform: translate3d(0, 6rem, 0);
+  transform: translate3d(0, 10rem, 0);
   transition: opacity 0.8s ease-in-out, transform 0.9s ease-in-out;
 }
 .bottom-details-active {
   opacity: 1;
-  transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 4rem, 0);
 }
 .bottom-details h4 {
   margin: 0;
@@ -239,9 +239,12 @@ p {
     font-size: 8px;
   }
   .top-details {
-    column-gap: 65%;
+    column-gap: 55%;
   }
   .at-a-glance{
     margin-left: 25px;
+  }
+  .overall-collapsibles{
+    margin-top: 225px
   }
 }
