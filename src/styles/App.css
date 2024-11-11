@@ -181,7 +181,7 @@ p {
   backdrop-filter: blur(30px);
   padding: 5px 0px 2px 0px;
   width: 55px;
-  border-radius: 8px;
+  border-radius: 9px;
 }
 .bottom-tab div img {
   width: 25px;
