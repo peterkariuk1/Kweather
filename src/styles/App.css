@@ -256,7 +256,7 @@ p {
     font-size: 8px;
   }
   .top-details {
-    column-gap: 50%;
+    column-gap: 40%;
   }
   .at-a-glance {
     margin-left: 25px;
@@ -333,7 +333,7 @@ p {
 }
 @media (max-width: 540px) {
   .top-details {
-    column-gap: 60%;
+    column-gap: 50%;
   }
   .overall-collapsibles {
     margin-top: 110px;
